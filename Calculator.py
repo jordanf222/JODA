@@ -1,11 +1,11 @@
 # Calculator Basics
 
 # add
-def addition(a, b):
+def add(a, b):
   return a+b
 
 # subtract
-def subtraction(a, b):
+def subtract(a, b):
   return a-b
 '''
 def subtract():
@@ -18,6 +18,6 @@ def multiply(a,b):
   return a*b
 
 # divide
-def division(a,b):
+def divide(a,b):
   return a/b
 
