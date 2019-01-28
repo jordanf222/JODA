@@ -9,5 +9,10 @@ def subtraction(a, b):
   return a-b
 
 # multiply
-def multiyly(a,b):
+def multiply(a,b):
   return a*b
+
+# divide
+def division(a,b):
+  return a/b
+
