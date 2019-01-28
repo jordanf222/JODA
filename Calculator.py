@@ -1,23 +1,24 @@
 # Calculator Basics
 
 # add
-def add(a, b):
+def addition(a, b):
   return a+b
 
 # subtract
-def subtract(a, b):
+def subtraction(a, b):
   return a-b
 '''
 def subtract():
     c=a-b
     print(c)
-'''
 subtract()
+'''
+
 # multiply
 def multiply(a,b):
   return a*b
 
 # divide
-def divide(a,b):
+def division(a,b):
   return a/b
 
